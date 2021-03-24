@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "El papel de la Inteligencia Artificial en la Conducción Autónoma"
-excerpt: Versión extendida del artículo publicado el 16 de marzo de 2021 en elEconomista.es
+excerpt: Versión extendida del artículo divulgativo publicado el 16 de marzo de 2021 en elEconomista.es
 date:  2021-03-25 07:31:00 +0100
 categories: [blog, es]
 tags: [ia, deep learning, automated driving]
@@ -16,7 +16,7 @@ header:
   overlay_image: /assets/images/2021/ai-autonomous-driving/highway.jpg
   caption: "Photo credit: [FLY:D](https://unsplash.com/@flyd2069?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
   actions:
-    - label: "Descarga revista Digital 4.0"
+    - label: "Descarga la revista Digital 4.0"
       url: "https://bit.ly/3cgAm6v"
   
 ---
