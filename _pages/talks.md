@@ -11,7 +11,7 @@ excerpt: "Some of the past and upcoming events where I have or will participate"
 ---
 
 ## 2021 
-* MathWorks Webinar: _Matlab y Python, ¿conectados?_ [_Recording_](https://bit.ly/31dy9Ct)
+* MathWorks Webinar: _MATLAB y Python, ¿conectados?_ [_Recording_](https://bit.ly/31dy9Ct)
 * MathWorks Virtual Seminar: _Pregunta a los Expertos: Inteligencia Artificial con MATLAB_.
 
 ## 2020
