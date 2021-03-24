@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Back to blogging"
-excerpt: 20 years later, I am back <br/>in the blogosphere
+excerpt: Long time no see. I am now back in the blogosphere
 date:   2021-03-24 14:15:00 +0100
 categories: [blog, en]
 toc: false
@@ -17,8 +17,10 @@ header:
   
 ---
 
-A long long time ago (~around 20 years or so), I used to blog frequently on topics that I considered of interest at the time. In the last couple of years, I have been writing LinkedIn posts and articles or using Twitter to share content on topics that I enjoy, Machine Learning, Deep Learning, Data Science or Robotics to mention a few. However, such platforms, although technologically great, do not provide the level of flexibility that I sometimes need. Thus, here I am, again.
+A long long time ago (~20 years or so), I used to write frequently on my blog on topics that I considered of interest at the time. Back then, I was using Blogger, a powerful blog-publishing service by [Pyra Labs](https://en.wikipedia.org/wiki/Pyra_Labs), acquired by Google in 2003. 
 
-I will write posts in English and occasionally in Spanish, so I hope not to discourage you as a reader if the entry in question is not written in your language. Online translators are pretty decent today. One day, eventually, we might discuss how they work. 
+In the last couple of years, I have been writing LinkedIn posts and articles or using Twitter to share content on topics that I enjoy, Machine Learning, Deep Learning, Data Science or Robotics to mention a few. However, such platforms, although technologically great, do not provide the level of flexibility that I sometimes need. Thus, here I am, again. 
+
+On this occasion, I decided to use [Jekyll](https://jekyllrb.com/), a powerful website generator that is designed to easily build minimal, static blogs hosted on [GitHub pages](https://pages.github.com/). I will be writing posts in [English](/categories/#en) and in [Spanish](/categories/#es), so I hope not to discourage you as a reader if the specific post you are interested in is not written in your preferred language. Online translators are pretty decent today. One day, eventually, we might discuss how they work. 
 
 Sit down, relax and make yourself at home.
