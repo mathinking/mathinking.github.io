@@ -12,13 +12,13 @@ excerpt: "Some of the past and upcoming events where I have or will participate"
 
 ## 2021 
 * MathWorks Webinar: _Matlab y Python, ¿conectados?_ [_Recording_](https://bit.ly/31dy9Ct)
-* MathWorks Online event: _Pregunta a los Expertos: Inteligencia Artificial con MATLAB_.
+* MathWorks Virtual Seminar: _Pregunta a los Expertos: Inteligencia Artificial con MATLAB_.
 
 ## 2020
 
-* MathWorks Online event: _Conducción autónoma y ADAS con MATLAB y Simulink_.
-* MathWorks Online event: _Trabajo en Equipo, Deep Learning y Cloud: Tendencias Claves en Inteligencia Artificial. Configurar y usar MATLAB en la nube_. [_Recording_](https://bit.ly/3d4apq4)
-* MathWorks Online event: _Cómo predecir la demanda energética con Inteligencia Artificial_
+* MathWorks Virtual Seminar: _Conducción autónoma y ADAS con MATLAB y Simulink_.
+* MathWorks Virtual Seminar: _Trabajo en Equipo, Deep Learning y Cloud: Tendencias Claves en Inteligencia Artificial. Configurar y usar MATLAB en la nube_. [_Recording_](https://bit.ly/3d4apq4)
+* MathWorks Virtual Seminar: _Cómo predecir la demanda energética con Inteligencia Artificial_
 
 ## 2019
 * Big Things Conference 2019: _How to train your robot (with Deep Reinforcement Learning)_. [_Abstract_](https://bit.ly/BIGTH19)
