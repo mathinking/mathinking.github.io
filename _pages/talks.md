@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.4"
   overlay_image: /assets/images/talks.jpg
-excerpt: "Some of the past and upcoming events<br/>where I have or will participate"
+excerpt: "Some of the past and upcoming events where I have or will participate"
 ---
 
 ## 2021 

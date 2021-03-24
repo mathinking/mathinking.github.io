@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: /assets/images/about.jpg
-excerpt: "Here's a short background about myself and <br/> why this site was put together"
+excerpt: "Here's a short background about myself and why this site was put together"
 ---
 
 
