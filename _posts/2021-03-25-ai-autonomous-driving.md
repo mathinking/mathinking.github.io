@@ -45,7 +45,7 @@ En el desarrollo del coche autónomo será necesario recoger, almacenar, analiza
 
 ### 3. Deep Learning
 La definición de la IA acuñada en los años 50 y aún en uso es “la capacidad de una máquina para imitar el comportamiento humano inteligente”. La IA se vuelve aún más interesante cuando la máquina no sólo puede imitar, sino igualar o incluso superar el rendimiento humano, dándonos la oportunidad de que hagan trabajos más seguros y eficientes. En este sentido, hay mucho entusiasmo hoy en día sobre un tipo de aprendizaje automático llamado Deep Learning, donde se utilizan redes neuronales artificiales. Se trata de un modelo matemático, donde mediante un proceso en el que mostramos a la red diferentes experiencias o ejemplos (proceso conocido como entrenamiento), conseguimos que la red aprenda las relaciones entre, por ejemplo, la imagen que le enseñamos y el objeto en cuestión que está presente en esta imagen. 
-![Sistema basado en Deep Learning a su paso por el Paseo de la Castellana en Madrid](/assets/images/2021/ai-autonomous-driving/castellana-deep-learning.jpg)
+![Efecto de un sistema basado en Deep Learning a su paso por el Paseo de la Castellana en Madrid](/assets/images/2021/ai-autonomous-driving/castellana-deep-learning.jpg)
 _Sistema basado en Deep Learning a su paso por el Paseo de la Castellana en Madrid_
 
 De este modo, tras mostrarle una cantidad importante de experiencias, este modelo matemático habrá aprendido todas esas relaciones y lo podremos utilizar para clasificar los objetos que deseemos, como vehículos, peatones, etc. Sin embargo, estos modelos matemáticos por sí solos poco podrán hacer. Debemos poder integrarlos como parte de un sistema mayor. 
