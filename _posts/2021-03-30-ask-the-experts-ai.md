@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Las 5 preguntas más votadas en nuestra sesión de Q&A sobre IA"
-excerpt: Breve resumen y conclusiones de una sesión diferente
+excerpt: Breve resumen y conclusiones de una sesión un tanto diferente
 date:  2021-03-30 10:00:00 +0100
 categories: [blog, es]
 tags: [ia, deep learning, reinforcement learning, python, matlab]
@@ -27,9 +27,9 @@ En base a las preguntas introducidas a las 12h (CET) del día anterior, organiza
 [![Preguntas de la sesión de Q&A - IA](/assets/images/2021/ask-the-experts-ai/Q&A-2021-03-10.png)](/assets/images/2021/ask-the-experts-ai/Q&A-2021-03-10.png)
 _Preguntas recibidas en socialqa.com a las 12h del 9 de marzo_
 
-A continuación, comentaré brevemente las 5 preguntas más votadas.
-
 (*) _Inevitablemente pasadas las 12h y hasta el comienzo de la sesión, entraron más preguntas, que respondimos sobre la marcha al finalizar la sesión_
+
+A continuación, comentaré brevemente las 5 preguntas más votadas.
 
 ## Cómo puedo compartir mis desarrollos en Python con usuarios de MATLAB? ¿Y al revés?
 
