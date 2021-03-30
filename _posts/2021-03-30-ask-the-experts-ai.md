@@ -3,7 +3,7 @@ layout: single
 title: "Las 5 preguntas más votadas en nuestra sesión de Q&A sobre IA"
 excerpt: Breve resumen y conclusiones de una sesión un tanto diferente
 date:  2021-03-30 10:00:00 +0100
-categories: [blog, es]
+categories: [blog, en]
 tags: [ia, deep learning, reinforcement learning, python, matlab]
 toc: true
 toc_label: En este post encontrarás
@@ -238,4 +238,4 @@ Si la pregunta, por contra, buscaba saber cómo integrar MATLAB con Jupyter, pue
 
   ![Selección de modelo con AutoML](/assets/images/2021/ask-the-experts-ai/automl.gif)
 
-Debo reconocer que disfruté de esta sesión un tanto atípica, dándole la vuelta al tablero y pidiendo a los asistentes configurar la agenda. Si asististe y/o quieres darnos algún tipo de _feedback_, es más que bienvenido.
+Debo reconocer que disfruté de esta sesión un tanto atípica, dándole la vuelta al tablero y pidiendo a los asistentes configurar la agenda. Si asististe y/o quieres darnos algún tipo de _feedback_, es más que bienvenido :)
