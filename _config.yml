@@ -31,6 +31,7 @@ search: true
 
 # Build settings
 markdown: kramdown
+
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 # Outputting
 permalink: /:categories/:title/
