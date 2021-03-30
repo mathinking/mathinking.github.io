@@ -7,6 +7,7 @@ categories: [blog, en]
 toc: false
 toc_label: On this pages
 toc_sticky: true
+comments_id: 1
 
 header:
   teaser: /assets/images/2021/back-to-blogging/keyboard.jpg
