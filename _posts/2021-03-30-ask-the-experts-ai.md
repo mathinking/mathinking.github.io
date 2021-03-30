@@ -4,7 +4,7 @@ title: "Las 5 preguntas más votadas en nuestra sesión de Q&A sobre IA"
 excerpt: Breve resumen y conclusiones de una sesión un tanto diferente
 date:  2021-03-30 10:00:00 +0100
 categories: [blog, es]
-tags: [ia, deep learning, reinforcement learning, python, matlab]
+tags: [machine learning, deep learning, reinforcement learning, python, matlab]
 toc: true
 toc_label: En este post encontrarás
 toc_sticky: true
@@ -148,3 +148,95 @@ Dispone de clientes ligeros para diferentes lenguajes de programación como C#, 
 [![Llamada a MATLAB Production Server vía API RESTful](/assets/images/2021/ask-the-experts-ai/postman-mps-small.png)](/assets/images/2021/ask-the-experts-ai/postman-mps.gif)
 
 Si quieres saber más sobre la conexión entre MATLAB y Python, puedes echar un vistazo a este [webinar](https://www.mathworks.com/videos/matlab-and-python-connected--1614871666603.html) o revivir el [directo](https://www.youtube.com/watch?v=RlMgQDvvAFQ) de los brillantes [Heather Gorr](https://twitter.com/HeatherGorr) y [Yann Debray](https://www.linkedin.com/in/yann-debray-70305026).
+
+
+## ¿Que metodologías IA sirven para desarrollar un controlador en lazo cerrado, inmerso en restricciones y como implementarlas? 
+<link href="/assets/css/votes.css" rel="stylesheet" />
+<a class="fa fa-globe" href="#preguntas-más-votadas">
+  <span class="fa fa-comment"></span>
+  <span class="num">25</span>
+</a>
+Esta pregunta fue subiendo sus votos de modo muy constante durante el tiempo en que estuvo abierta la plataforma socialqa para el evento y ocupando en ocasiones la primera posición. 
+
+En el desarrollo de algoritmos de control existen un amplio número de estrategias que involucran algoritmos de Inteligencia Artificial que podríamos utilizar, incluyendo técnicas de optimización clásica, algoritmos genéticos y otras heurísticas, lógica borrosa, aprendizaje automático, etc. Sin embargo, existe una aproximación que destaca sobre las demás, por ofrecer una solución para problemas extremadamente complejos, que incluyen, por ejemplo, espacios de estados continuos. Se trata del Aprendizaje por Refuerzo (en inglés, _Reinforcement Learning_).
+
+El _Reinforcement Learning_ es un subconjunto de _Machine Learning_ en donde se trabaja con datos de un entorno dinámico. El objetivo no es agrupar o clasificar los datos, sino encontrar la mejor secuencia de acciones que genere el resultado deseado. De todas las definiciones que me he encontrado sobre _Reinforcement Learning_, la que creo que mejor explica su mecánica es la ofrecida por _Sutton_ y _Barto_ en su libro [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html):
+
+> Reinforcement learning is learning what to do—how to map situations to actions—so as to maximize a numerical reward signal.
+> 
+> The learner is not told which actions to take, but instead must discover which actions yield the most reward by trying them. 
+
+Es decir, encontrar mediante el ensayo y error, las acciones que maximizan una determinada señal de recompensa. 
+
+Hace año y medio, [presenté](https://bit.ly/BIGTH19) en [Big Things Conference](https://www.bigthingsconference.com/) un ejemplo de cómo mediante _Reinforcement Learning_ podíamos reemplazar una estrategia de control clásica enseñar a un robot bípedo a caminar ergido en línea recta. Puedes ver la charla aquí para saber más:
+
+{% include video id="bBnhdj9IqFg" provider="youtube" %}
+
+## ¿Que diferencias hay entre construir modelos de IA en MATLAB y hacerlo en frameworks como MindSpore, TensorFlow o PyTorch? 
+<link href="/assets/css/votes.css" rel="stylesheet" />
+<a class="fa fa-globe" href="#preguntas-más-votadas">
+  <span class="fa fa-comment"></span>
+  <span class="num">19</span>
+</a>
+Esta pregunta me pareció una de las más interesantes y me resulta altamente complicado el dar una respuesta completa, vista la velocidad con la que evolucionan los _frameworks_ en _Deep Learning_ hoy en día. 
+
+Frecuentemente me encuentro con usuarios de TensorFlow o PyTorch (no tanto de MindSpore) que desconocen los avances que han tenido lugar en MATLAB en el ámbito de _Deep Learning_. Pero con esto no quiero decir que deban reemplazar su manera de trabajar. Vayamos por partes. 
+
+Sin lugar a duda, creo que la mayor ventaja de MATLAB para el desarrollo de proyectos en _Deep Learning_ viene dado por su flujo de trabajo:
+[![Flujo de trabajo de IA](/assets/images/2021/ask-the-experts-ai/ai-workflow.png)](/assets/images/2021/ask-the-experts-ai/ai-workflow.png)
+
+Esto nos permite no sólo desarrollar modelos de Deep Learning, sino de acompañarlos del resto de elementos que serán necesarios en flujos de trabajo de IA, como son la preparación de los datos, el etiquetado, la generación de datos sintéticos, variaciones y optimización de la arquitectura, integración con el sistema del que forma parte y el despliegue al sistema final (entorno embarcado o servidor).
+
+Antes de entrenar cualquier modelo de _Deep Learning_, necesitaremos, si estamos construyendo un modelo de aprendizaje supervisado, realizar un adecuado etiquetado de los datos. El modelo que entrenemos podrá ser a lo sumo tan bueno como sea nuestro etiquetado, por lo que merece la pena realizar esta tarea [minuciosamente](https://elpais.com/tecnologia/2018/11/19/actualidad/1542642879_092912.html), aunque está claro, que no es la tarea más gratificante del mundo. Para ayudar esta labor, MATLAB incorpora en sus _toolboxes_ herramientas que facilitan el proceso de etiquetado de [imágenes](https://www.mathworks.com/help/vision/ug/get-started-with-the-image-labeler.html), [vídeo](https://www.mathworks.com/help/vision/ug/get-started-with-the-video-labeler.html), [señales](https://www.mathworks.com/help/signal/ug/using-signal-labeler.html), [audio](https://www.mathworks.com/help/audio/ug/audio-labeler-walkthrough.html), [Lidar](https://www.mathworks.com/help/lidar/ug/lidar-labeler-get-started.html), etc. En muchas ocasiones, necesitaremos aumentar nuestro _dataset_ de entrenamiento para mejorar la calidad de nuestro modelo. Es habitual en _Deep Learning_ utilizar técnicas de [_Data Augmentation_](https://www.mathworks.com/help/deeplearning/ug/image-augmentation-using-image-processing-toolbox.html) aplicando transformaciones invariantes a nuestros datos, así como utilizar [GANs](https://www.mathworks.com/help/deeplearning/ug/train-generative-adversarial-network.html) (_Generative Adversarial Networks_) como solución para la generación de datos sintéticos. Además de estas técnicas, es habitual encontrar equipos en ingeniería que generan datos sintéticos a partir de modelos virtuales creados en [Simulink](https://www.mathworks.com/help/driving/ug/visualize-automated-parking-valet-using-3d-simulation.html), e integrándolos, por ejemplo, con simuladores de terceros como Unreal Engine:
+![Aparcamiento automático con Simulink y Unreal Engine](/assets/images/2021/ask-the-experts-ai/unreal.png)
+
+Con la versión R2019b, MATLAB liberaba su _extended framework_ para _Deep Learning_, permitiendo crear todo tipo de redes profundas, y ampliando las posibilidades de creación de arquitecturas a cualquier tipo, incluyendo GANs, Siamese Networks o Graph Conv Networks, entre otras. El _extended framework_ ofrece mayor flexibilidad, diferenciación automática, trabajar con múltiples entradas y salidas, etc. Esto permite equiparar MATLAB con otros _frameworks_ Open-Source como TensorFlow o PyTorch, cuya evolución había sido hasta entonces más ágil. 
+
+En el ámbito de la investigación poder reproducir un trabajo/desarrollo es clave para su éxito. Por ello, MathWorks intenta facilitar esta integración desarrollando conectores con frameworks de terceros. Hasta la fecha, existen importadores para [Caffe](https://www.mathworks.com/matlabcentral/fileexchange/61735-deep-learning-toolbox-importer-for-caffe-models), [Keras](https://www.mathworks.com/matlabcentral/fileexchange/64649-deep-learning-toolbox-converter-for-tensorflow-models), [TensorFlow](https://www.mathworks.com/matlabcentral/fileexchange/64649-deep-learning-toolbox-converter-for-tensorflow-models) (TF2) y [ONNX](https://www.mathworks.com/matlabcentral/fileexchange/67296-deep-learning-toolbox-converter-for-onnx-model-format). Asimismo, también podemos exportar modelos de MATLAB hacia estos _frameworks_. Pero en muchos casos, el interés de los usuarios no pasa por entrenar el modelo en MATLAB, sino hacerlo en el _framework_ de origen. En este caso, la conectividad de MATLAB con otros lenguajes, como se vio en la [pregunta 1](#cómo-puedo-compartir-mis-desarrollos-en-python-con-usuarios-de-matlab-y-al-revés) con el caso de Python, nos permite, por ejemplo, preparar y lanzar desde MATLAB la ejecución de un modelo de _Deep Learning_ en PyTorch o TensorFlow y recuperar los resultados de vuelta en MATLAB. 
+
+Pero quizá uno de los aspectos más interesantes de cara a utilizar MATLAB para _Deep Learning_ venga del lado del ecosistema. Dicho modelo de _Deep Learning_, probablemente tenga que "vivir" dentro de un sistema mayor, integrado como parte de un sistema más complejo que incluya algoritmos de planificación, fusión de sensores, localización, navegación, control, etc. Es aquí donde la integración de MATLAB y Deep Learning Toolbox con Simulink es fundamental: 
+
+[![Test bench para seguimiento de carril en autopista](/assets/images/2021/ask-the-experts-ai/lanefollowing.jpg)](/assets/images/2021/ask-the-experts-ai/lanefollowing.jpg)
+
+Por último, una vez entrenado nuestro modelo de _Deep Learning_, debemos poder desplegarlo allí donde vaya a sernos de utilidad. Podemos necesitar llevar nuestro modelo para su ejecución en alta disponibilidad en el Cloud, o ejecutarse en sistemas embebidos, como ARMs, GPUs (familia NVIDIA Jetson) o FPGAs, para lo cual [generaremos código C/C++, CUDA o VHDL](https://www.mathworks.com/videos/deploying-deep-neural-networks-to-gpus-and-cpus-using-matlab-coder-and-gpu-coder-1567105707114.html) para su integración con el resto del proyecto.
+
+## ¿Se puede integrar MATLAB con Jupyter notebooks?
+<link href="/assets/css/votes.css" rel="stylesheet" />
+<a class="fa fa-globe" href="#preguntas-más-votadas">
+  <span class="fa fa-comment"></span>
+  <span class="num">14</span>
+</a> Sí. Pero antes de contar más detalle quisiera hacer un matiz sobre la pregunta. 
+
+En numerosas ocasiones cuando me han hecho esta pregunta, en realidad lo que querían preguntar es si dispone MATLAB de algún tipo de solución que permita trabajar con cuadernos al estilo de Jupyter notebooks. En el entorno de MATLAB, dicha solución se llama _Live Editor_ y la verdad es que funciona a las mil maravillas. Desde [este enlace](https://www.mathworks.com/products/matlab/live-editor.html#), puedes "cacharrear" para ejecutar un cuaderno de ejemplo desde tu navegador. 
+
+Si la pregunta, por contra, buscaba saber cómo integrar MATLAB con Jupyter, puedes ver cómo hacerlo desde los siguientes repositorios en GitHub: 
+* [jupyter-matlab-proxy](https://github.com/mathworks/jupyter-matlab-proxy), permite abrir MATLAB en el navegador, directamente desde tu entorno Jupyter
+* [matlab-integration-for-jupyter](https://github.com/mathworks-ref-arch/matlab-integration-for-jupyter), para ejecución de Jupyter con MATLAB, dentro de un contenedor Docker
+
+## ¿Cómo puedo elegir el mejor modelo de Machine Learning para mis datos?
+<link href="/assets/css/votes.css" rel="stylesheet" />
+<a class="fa fa-globe" href="#preguntas-más-votadas">
+  <span class="fa fa-comment"></span>
+  <span class="num">14</span>
+</a> Esta pregunta no tiene una solución cerrada, como es obvio. Un número elevado de factores pueden influir en la elección del mejor modelo en cada caso, incluyendo la precisión, explicabilidad, rendimiento, huella en memoria, etc. Voy a partir la pregunta en dos partes: 
+
+* ¿Cómo preparar mejor los datos para la utilización de un modelo de _Machine Learning_?
+
+  Cualquier modelo de _Machine Learning_ requerirá de datos de entrada, también conocidos como características (o en inglés, _features_). Para la obtención de dichas características, en muchas ocasiones se utiliza el conocimiento de dominio en la disciplina correspondiente, pero típicamente necesitamos un análisis posterior que nos ayude a seleccionar qué características son más adecuadas. El siguiente diagrama nos ayuda a conocer qué [técnica puede ser más apropiada en cada caso](https://www.mathworks.com/help/stats/feature-selection.html) (en función del tipo de característica):
+
+
+  [![Taxonomía de la selección de características en MATLAB](/assets/images/2021/ask-the-experts-ai/features.png)](/assets/images/2021/ask-the-experts-ai/features.png)
+
+* ¿Qué herramientas me pueden ayudar a seleccionar el mejor modelo?
+  
+  MATLAB dispone de varias herramientas en Statistics and Machine Learning Toolbox que facilitan el entrenamiento de modelos de [clasificación](https://www.mathworks.com/help/stats/train-classification-models-in-classification-learner-app.html) y [regresión](https://www.mathworks.com/help/stats/train-regression-models-in-regression-learner-app.html), y la consiguiente selección del modelo (ordenándolos por RSME, MSE, MAE, etc.).
+
+  Adicionalmente, existen técnicas de _Machine Learning_ que reducen o eliminan algunas barreras relativas a los conocimientos necesarios de cara a entrenar modelos predictivos. Se trata del [AutoML](https://www.mathworks.com/help/stats/automated-classifier-selection-with-bayesian-optimization.html) (_Automated Machine Learning_). Con ello, se busca agilizar flujos de trabajo en _Machine Learning_, automatizando la selección y extracción de características, la elección, entrenamiento y optimización del modelo (fases de AutoML indicadas en gris):
+
+  [![Agilización de los flujos de trabajo de aprendizaje automático con AutoML](/assets/images/2021/ask-the-experts-ai/automl.png)](/assets/images/2021/ask-the-experts-ai/automl.png)
+
+  Utilizando funciones como [fitcauto](https://www.mathworks.com/help/stats/fitcauto.html) o [fitrauto](https://www.mathworks.com/help/stats/fitrauto.html) podemos elegir automáticamente el modelo de clasificación o regresión más adecuado con los hiperparámetros optimizados:
+
+  ![Selección de modelo con AutoML](/assets/images/2021/ask-the-experts-ai/automl.gif)
+
+Debo reconocer que disfruté de esta sesión un tanto atípica, dándole la vuelta al tablero y pidiendo a los asistentes configurar la agenda. Si asististe y/o quieres darnos algún tipo de _feedback_, es más que bienvenido :)
