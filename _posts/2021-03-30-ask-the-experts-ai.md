@@ -10,10 +10,10 @@ toc_label: En este post encontrarás
 toc_sticky: true
 
 header:
-  teaser: /assets/images/2021/ask-the-experts-ai/Q&A_banner.png
+  teaser: /assets/images/2021/ai-autonomous-driving/highway.jpg
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /assets/images/2021/ask-the-experts-ai/Q&A_banner.png
+  overlay_image: /assets/images/2021/ai-autonomous-driving/highway.jpg
   
 ---
 
