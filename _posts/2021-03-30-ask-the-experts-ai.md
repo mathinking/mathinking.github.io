@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Las 5 preguntas más votadas en nuestra sesión de Q&A sobre IA"
-excerpt: Breve resumen sobre una sesión diferente
+excerpt: Breve resumen y conclusiones de una sesión diferente
 date:  2021-03-30 10:00:00 +0100
 categories: [blog, es]
 tags: [ia, deep learning, reinforcement learning, python, matlab]
