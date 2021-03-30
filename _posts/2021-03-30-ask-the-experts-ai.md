@@ -231,7 +231,11 @@ Si la pregunta, por contra, buscaba saber cómo integrar MATLAB con Jupyter, pue
   MATLAB dispone de varias herramientas en Statistics and Machine Learning Toolbox que facilitan el entrenamiento de modelos de [clasificación](https://www.mathworks.com/help/stats/train-classification-models-in-classification-learner-app.html) y [regresión](https://www.mathworks.com/help/stats/train-regression-models-in-regression-learner-app.html), y la consiguiente selección del modelo (ordenándolos por RSME, MSE, MAE, etc.).
 
   Adicionalmente, existen técnicas de _Machine Learning_ que reducen o eliminan algunas barreras relativas a los conocimientos necesarios de cara a entrenar modelos predictivos. Se trata del [AutoML](https://www.mathworks.com/help/stats/automated-classifier-selection-with-bayesian-optimization.html) (_Automated Machine Learning_). Con ello, se busca agilizar flujos de trabajo en _Machine Learning_, automatizando la selección y extracción de características, la elección, entrenamiento y optimización del modelo (fases de AutoML indicadas en gris):
+
   [![Agilización de los flujos de trabajo de aprendizaje automático con AutoML](/assets/images/2021/ask-the-experts-ai/automl.png)](/assets/images/2021/ask-the-experts-ai/automl.png)
 
   Utilizando funciones como [fitcauto](https://www.mathworks.com/help/stats/fitcauto.html) o [fitrauto](https://www.mathworks.com/help/stats/fitrauto.html) podemos elegir automáticamente el modelo de clasificación o regresión más adecuado con los hiperparámetros optimizados:
+
   ![Selección de modelo con AutoML](/assets/images/2021/ask-the-experts-ai/automl.gif)
+
+Debo reconocer que disfruté de esta sesión un tanto atípica, dándole la vuelta al tablero y pidiendo a los asistentes configurar la agenda. Si asististe y/o quieres darme algún tipo de _feedback_ es más que bienvenido.
