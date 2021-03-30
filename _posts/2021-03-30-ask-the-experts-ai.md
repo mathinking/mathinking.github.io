@@ -15,7 +15,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: /assets/images/2021/ask-the-experts-ai/online.jpg
-   caption: "Photo credit: [Chris Montgomery](https://unsplash.com/@cwmonty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)" 
+  caption: "Photo credit: [Chris Montgomery](https://unsplash.com/@cwmonty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)" 
 
 ---
 
