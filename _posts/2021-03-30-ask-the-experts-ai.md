@@ -16,6 +16,7 @@ header:
   overlay_filter: "0.2"
   overlay_image: /assets/images/2021/ask-the-experts-ai/online.jpg
    caption: "Photo credit: [Chris Montgomery](https://unsplash.com/@cwmonty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)" 
+
 ---
 
 El pasado 10 de marzo tuve el placer de co-presentar una sesión de preguntas y respuestas con mi compañero [José Barriga](linkedin.com/in/josébarriga), ingeniero especialista en IA con amplia experiencia en Visión Artificial y Mantenimiento Predictivo. 
