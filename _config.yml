@@ -28,6 +28,7 @@ twitter_username: mathinking
 github_username:  mathinking
 minimal_mistakes_skin: default
 search: true
+issues_repo: mathinking/mathinking-blog-comments
 
 # Build settings
 markdown: kramdown
@@ -129,5 +130,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-issues_repo: mathinking/mathinking-blog-comments
