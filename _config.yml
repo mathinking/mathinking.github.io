@@ -114,7 +114,7 @@ defaults:
       comments: true
       share: true
       related: true
-      words_per_minute: 200
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
