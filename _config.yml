@@ -28,6 +28,7 @@ twitter_username: mathinking
 github_username:  mathinking
 minimal_mistakes_skin: default
 search: true
+repository: mathinking/mathinking.github.io
 
 # Build settings
 markdown: kramdown
@@ -129,3 +130,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "pathname"
