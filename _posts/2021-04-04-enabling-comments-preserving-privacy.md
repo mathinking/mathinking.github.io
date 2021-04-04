@@ -31,3 +31,5 @@ Since this site is hosted on GitHub Pages, my thinking was, why not use it then 
 Fortunately, some bloggers had already thought of this strategy and there are even a few Open-Source projects facilitating such integration. Thus, I have enabled comments by using [utterances](https://utteranc.es/). 
 
 First, I had to install the utterances app on the repo to allow reading and writing of issues. Then, to comment, users must authorize the utterances app to post on their behalf using the GitHub OAuth flow. Alternatively, users can comment on the GitHub issue directly. To me, this provides the basic functionality required by a commenting system, while preserving the user's privacy. Yes, you need to have a GitHub account to submit a comment, but this might be a good thing after all. :wink:
+
+Looking forward to reading your comments!
