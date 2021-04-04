@@ -4,8 +4,9 @@ title:  "Back to blogging"
 excerpt: Long time no see. I am now back in the blogosphere
 date:   2021-03-24 14:15:00 +0100
 categories: [blog, en]
+tags: personal
 toc: false
-toc_label: On this pages
+toc_label: On this page
 toc_sticky: true
 
 header:
