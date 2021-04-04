@@ -12,7 +12,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/2021/enabling-comments-preserving-privacy/privacy.jpg
-  
+  caption: "Photo credit: [Tobias Tullius](https://unsplash.com/@tobiastu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)" 
+
 ---
 
 Ever since I thought of putting together this blog, I have been thinking on the best approach to provide readers with the ability to comment on posts. Should I provide that option or not.
