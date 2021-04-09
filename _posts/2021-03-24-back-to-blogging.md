@@ -3,6 +3,7 @@ layout: single
 title:  "Back to blogging"
 excerpt: Long time no see. I am now back in the blogosphere
 date:   2021-03-24 14:15:00 +0100
+classes: wide
 categories: [blog, en]
 tags: personal
 toc: false

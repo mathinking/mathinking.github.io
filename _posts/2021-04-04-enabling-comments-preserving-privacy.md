@@ -3,6 +3,7 @@ layout: single
 title: "Enabling comments while preserving your privacy"
 excerpt: Searching for an optimal way to preserve my reader's privacy on the blog
 date:  2021-04-04 08:00:00 +0100
+classes: wide
 categories: [blog, en]
 tags: [personal]
 toc: false
