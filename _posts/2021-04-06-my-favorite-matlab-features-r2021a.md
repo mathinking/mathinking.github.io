@@ -28,7 +28,7 @@ Here we go.
 # 10. bubblecloud
 If you are working with data and have to provide your users with visualizations to correctly interpret that data, bubble charts can be a powerful way to do it. In this release, [bubblecloud]() allows to create a bubble cloud chart where a variable can specify the bubble sizes and you can illustrate the relationship between elements in the dataset by color. 
 
-For example, ¿which countries have vaccinated(*) a higher percentage of their population against COVID-19? 
+For example, ¿which countries have vaccinated(*) a higher percentage of their population against COVID-19 as of April 7th? 
 
 _(*) at least one dose_
 ```
@@ -66,7 +66,7 @@ Fortunately for the MATLAB user, the [Deep Learning Toolbox Converter for Tensor
 
 # 7. Live Editor Controls
 
-Ever since I started to use the [Live Editor] for demos, one of the missing features has been being able to refer to an existing workspace variable to dynamically control drop-down items. 
+Ever since I started to use the [Live Editor](https://www.mathworks.com/products/matlab/live-editor.html) for demos, one of the missing features has been being able to refer to an existing workspace variable to dynamically control drop-down items. 
 
 Now you can do this for drop-down values and bounds within a slider control. 
 ![Experiment Manager App](/assets/images/2021/my-favorite-matlab-features-r2021a/drop-down-control.png)
@@ -140,7 +140,7 @@ By including shallow nets in Classification Learner and Regression Learner apps,
 
 # 2. Class Diagram Viewer
 
-One of my top wishes for Object-Oriented Programing in MATLAB has always been to easily inspect and view my MATLAB classes as I would do if using [UML](https://www.uml.org/). There are a [few contributions](https://www.mathworks.com/matlabcentral/fileexchange/59722-m2uml) from the community that aim to solve this challenge and although these solve my requirements to some degree, I am still missing some key features. 
+One of my top wishes for Object-Oriented Programing in MATLAB has always been to easily inspect and view my MATLAB classes as I would do if using [UML](https://www.uml.org/). There are a [few contributions](https://www.mathworks.com/matlabcentral/fileexchange/59722-m2uml) from the community that aim to solve this challenge and, although these solve my requirements to some degree, I am still missing some key features. 
 
 [Class Diagram Viewer](https://www.mathworks.com/help/matlab/ref/classdiagramviewer.html) allows you to create class diagrams showing implementation details and hierarchies. You may inspect the internal structure of the classes, properties, methods, understand hierarchy of classes, inheritance, etc.
 
