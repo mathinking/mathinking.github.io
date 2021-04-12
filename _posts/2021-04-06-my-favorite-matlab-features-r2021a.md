@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "My favorite MATLAB features in R2021a"
+title: "My favorite features in MATLAB R2021a"
 excerpt: Exploring some of the new features in yet another interesting software release
 date:  2021-04-12 16:10:00 +0100
 categories: [blog, en]
