@@ -30,7 +30,7 @@ I do not do full-time Research. This is another hobby of mine, like music or swi
 
 ## Bucket list of ideas
 * Choose starting points in CHNs studying the attractor basin's topology
-* Relationshio between the TSP and the optimal value for τ in the CHN
+* Relationship between the TSP and the optimal value for τ in the CHN
 * Re-scale distance matrix for small distances to add potential and small to substract
 * Automate the strategies in the _Divide-and-Conquer_ strategy as a single CHN
 * Build a CHN to solve all the _2-opt_ swaps at once
