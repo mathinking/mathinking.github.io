@@ -49,5 +49,5 @@ Next question. Is this what users expect for the software to do? Well, according
 
 Will DataLoader's implementation change? Maybe, maybe not. Let's keep an eye on the [GitHub issue](https://github.com/pytorch/pytorch/issues/5059) to see where this goes...
 
-As a final note, I can't help it but leave here one of my favorite [Dilbert](https://www.dilbert.com)'s comic straps:
+As a final note, I can't help it but leave here one of my favorite [Dilbert](https://www.dilbert.com)'s comic strips:
 ![Dilbert.com](https://assets.amuniversal.com/321a39e06d6401301d80001dd8b71c47) 
