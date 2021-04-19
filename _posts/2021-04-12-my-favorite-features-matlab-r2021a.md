@@ -150,7 +150,7 @@ One of my top wishes for Object-Oriented Programing in MATLAB has always been to
 
 I must admit. This one makes me happy, very happy. :smile:
 
-Yes, Python and R, as well as other high-level frameworks support this syntax. In software development, when something improves your usability and user experience, it's wise to bring it on. This is a great idea!
+Yes, Python and R, as well as other high-level programming languages support this syntax. In software development, when something improves your usability and user experience, it's wise to bring it on. This is a great idea!
 
 As an example, the code snippet on [feature #6](#6-prettyprint-for-json) turns into:
 
