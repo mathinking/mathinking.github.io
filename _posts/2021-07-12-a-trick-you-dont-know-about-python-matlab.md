@@ -31,13 +31,13 @@ It's worth noting that these communities do have more in common than what people
 
 One of the most significant challenges in software development is integrating different technologies or product stacks efficiently, streamlining development, and facilitating collaboration between teams. In this sense, MATLAB provides flexible, bi-directional integration with many programming languages, including Python. This integration allows different teams to collaborate, integrate their developments, and take them to production regardless of their programming language preference.
 
-Why would a Python user want to use MATLAB? After some exciting discussions with my colleagues Yann and Mike, we narrowed them down to the following:
+Why would a Python user want to use MATLAB? After some exciting discussions with my colleagues [Yann](https://www.linkedin.com/in/yann-debray-70305026) and [Mike](https://twitter.com/walkingrandomly), we narrowed them down to the following:
 
 ![Why call MATLAB from Python?](/assets/images/2021/a-trick-you-dont-know-about-python-matlab/reasons.png)
 
 Following this post, I will be sharing other posts to exemplify each of these reasons. **Stay tuned and navigate to these posts below for more details:**
 
-- [ ] Need to integrate MATLAB code from a colleague
+- [X] [Need to integrate MATLAB code from a colleague](../../../blog/en/a-trick-you-dont-know-about-python-matlab-integrate)
 - [ ] Facilitate development by using a simplified workflow
 - [ ] Need functionality only available in MATLAB (e.g. Simulink)
 - [ ] Want to validate conclusions by running equivalent MATLAB code
@@ -45,7 +45,12 @@ Following this post, I will be sharing other posts to exemplify each of these re
 
 Also, you may revisit the slides: 
 
-<iframe markdown="0" src="https://content-mathworks.highspot.com/viewer/60c31bd0659e935e6f4086a5?iid=60bf49ba628ba20f9d8a747e" width="960" height="600" frameborder="0" scrolling="no" style="display:block; margin: 0 auto;" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<div>
+  <div style="position:relative;padding-top:56.25%;">
+    <iframe src="https://content-mathworks.highspot.com/viewer/60c31bd0659e935e6f4086a5?iid=60bf49ba628ba20f9d8a747e" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+  </div>
+</div>
 
 and the presentation from June 3rd (in Spanish):
 
