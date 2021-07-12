@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "A trick you don't know about Python: MATLAB"
-excerpt: A peak into my talk at Python Madrid Meetup
+excerpt: Five reasons why a Python user would want to use MATLAB. A peak into my talk at Python Madrid Meetup
 date:  2021-07-12 11:00:00 +0100
 categories: [blog, en]
 tags: [python, matlab]
