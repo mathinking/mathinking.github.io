@@ -15,7 +15,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: assets/images/2021/a-trick-you-dont-know-about-python-matlab/trick-integrate.jpg
-  caption: "Photo credit: [Ryoji Iwata](ttps://unsplash.com/@ryoji__iwata?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+  caption: "Photo credit: [Ryoji Iwata](https://unsplash.com/@ryoji__iwata?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 ---
 
 This post is the first post on the series [A trick you don't know about Python: MATLAB](../../../blog/en/a-trick-you-dont-know-about-python-matlab).
