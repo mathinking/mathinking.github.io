@@ -24,6 +24,8 @@ Simplifying integration between programming languages is critical to facilitate 
 
 The following example showcases two different integration scenarios: integrating MATLAB code with Python in a development phase and integrating MATLAB code with Python for production.
 
+Credit: _The examples below come from a great [demo](https://github.com/hgorr/matlab-with-python) by [Heather Gorr](https://twitter.com/heathergorr)._
+
 # Integrating MATLAB code with Python in Development
 The key element in facilitating the call of MATLAB from Python is the [MATLAB Engine API for Python](https://www.mathworks.com/help/matlab/matlab_external/get-started-with-matlab-engine-for-python.html?lang=en). Once [installed](https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html), you may use it to call MATLAB functions and exchange data between Python and MATLAB by using the classes included in the `matlab` package.
 
