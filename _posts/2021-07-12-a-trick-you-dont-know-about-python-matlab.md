@@ -4,7 +4,7 @@ title: "A trick you don't know about Python: MATLAB"
 excerpt: Five reasons why a Python user would want to use MATLAB. A peak into my talk at Python Madrid Meetup
 date:  2021-07-12 11:00:00 +0100
 categories: [blog, en]
-tags: [python, matlab]
+tags: [python, matlab, a-trick-you-dont-know-about-python-matlab]]
 classes: wide
 toc: false
 toc_label: In this post
@@ -27,7 +27,7 @@ Over these years, I have met a lot of people in the open-source community. Curio
 
 It's worth noting that these communities do have more in common than what people may think in the first place, and, as I stated in the abstract of the talk: 
 
-> "The world is not so simple as to be divided between Pythonists and MATLABers"
+> "The world is not so simple as to be divided between Pythonistas and MATLABers"
 
 One of the most significant challenges in software development is integrating different technologies or product stacks efficiently, streamlining development, and facilitating collaboration between teams. In this sense, MATLAB provides flexible, bi-directional integration with many programming languages, including Python. This integration allows different teams to collaborate, integrate their developments, and take them to production regardless of their programming language preference.
 
