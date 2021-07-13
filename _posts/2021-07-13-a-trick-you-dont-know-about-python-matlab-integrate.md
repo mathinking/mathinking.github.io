@@ -77,10 +77,11 @@ Enabling debugging workflows is vital to facilitate code integration. In this se
 eng = matlab.engine.start_matlab("-desktop")
 ```
 
-or using [`matlab.engine.connect_matlab`](https://www.mathworks.com/help/matlab/apiref/matlab.engine.connect_matlab.html) to connect Python to a [previously](https://www.mathworks.com/help/matlab/ref/matlab.engine.shareengine.htm) shared MATLAB session:
+or using [`matlab.engine.connect_matlab`](https://www.mathworks.com/help/matlab/apiref/matlab.engine.connect_matlab.html) to connect Python to a [previously](https://www.mathworks.com/help/matlab/ref/matlab.engine.shareengine.html) shared MATLAB session:
 ```python
 eng = matlab.engine.connect_matlab()
 ```
+Check how to connect [Python to a Running MATLAB Session](https://www.mathworks.com/help/matlab/matlab_external/connect-python-to-running-matlab-session.html).
 
 # Integrating MATLAB code with Python in Production
 
