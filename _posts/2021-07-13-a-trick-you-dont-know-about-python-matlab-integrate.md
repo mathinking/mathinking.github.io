@@ -81,7 +81,7 @@ or using [`matlab.engine.connect_matlab`](https://www.mathworks.com/help/matlab/
 ```python
 eng = matlab.engine.connect_matlab()
 ```
-Check how to connect [Python to a Running MATLAB Session](https://www.mathworks.com/help/matlab/matlab_external/connect-python-to-running-matlab-session.html).
+Check how to [connect Python to a Running MATLAB Session](https://www.mathworks.com/help/matlab/matlab_external/connect-python-to-running-matlab-session.html).
 
 # Integrating MATLAB code with Python in Production
 
