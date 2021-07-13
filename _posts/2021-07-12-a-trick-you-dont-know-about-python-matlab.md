@@ -23,11 +23,11 @@ In the last couple of years at MathWorks, I have been working mainly in machine 
 
 [**A trick you don't know about Python: MATLAB**](https://www.meetup.com/python-madrid/events/278296241/)
 
-Over these years, I have met a lot of people in the open-source community. Interestingly, the organizers of [Python Madrid](https://www.meetup.com/es/python-madrid/)  got interested in the integration of Python and MATLAB together.
+Over these years, I have met a lot of people in the open-source community. Curiously, the organizers of [Python Madrid](https://www.meetup.com/es/python-madrid/) got interested in the integration of Python and MATLAB together.
 
 It's worth noting that these communities do have more in common than what people may think in the first place, and, as I stated in the abstract of the talk: 
 
-> The world is not so simple as to be divided between Pythonists and MATLABers
+> "The world is not so simple as to be divided between Pythonists and MATLABers"
 
 One of the most significant challenges in software development is integrating different technologies or product stacks efficiently, streamlining development, and facilitating collaboration between teams. In this sense, MATLAB provides flexible, bi-directional integration with many programming languages, including Python. This integration allows different teams to collaborate, integrate their developments, and take them to production regardless of their programming language preference.
 
@@ -50,10 +50,8 @@ Also, you may revisit the slides:
     <iframe src="https://content-mathworks.highspot.com/viewer/60c31bd0659e935e6f4086a5?iid=60bf49ba628ba20f9d8a747e" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen
       style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
   </div>
-</div>
-
+</div><br />
 and the presentation from June 3rd (in Spanish):
 
-{% include video id="qh8sgV36KZo" provider="youtube" %}
-
-If you want to discuss your workflow or have feedback on integrating MATLAB and Python, feel free to post a comment in the section below or reach out to me! 
+{% include video id="qh8sgV36KZo" provider="youtube" %}<br />
+If you want to discuss your workflow or have feedback on integrating MATLAB and Python, feel free to **post a comment** in the section below or [**reach out to me**](https://mathinking.github.io/about#contact-me)! 
