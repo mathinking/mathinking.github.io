@@ -23,9 +23,9 @@ In the last couple of years at MathWorks, I have been working mainly in machine 
 
 [**A trick you don't know about Python: MATLAB**](https://www.meetup.com/python-madrid/events/278296241/)
 
-Over these years, I have met a lot of people in the open-source community. Curiously, the organizers of [Python Madrid](https://www.meetup.com/es/python-madrid/) got interested in the integration of Python and MATLAB together.
+Over these years, I have met a lot of people in the open-source community. Recently, the organizers of [Python Madrid](https://www.meetup.com/es/python-madrid/) approached me and asked me to present the integration of Python and MATLAB at their meetup in June.
 
-It's worth noting that these communities do have more in common than what people may think in the first place, and, as I stated in the abstract of the talk: 
+It's worth noting that the Python and MATLAB communities do have more in common than what people may think in the first place, and, as I stated in the abstract of the talk: 
 
 > "The world is not so simple as to be divided between Pythonistas and MATLABers"
 
