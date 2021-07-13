@@ -129,6 +129,6 @@ print(result)
 {'lhs': [{'mwdata': ['Good'], 'mwsize': [1, 4], 'mwtype': 'char'}, {'mwdata': [55.76], 'mwsize': [1, 1], 'mwtype': 'double'}]}
 ```
 
-What to learn more about how the integration can simplify some of your Python workflows? 
+Want to learn more about how the integration can simplify some of your Python workflows? 
 
 Stay tuned for **part 2**!
