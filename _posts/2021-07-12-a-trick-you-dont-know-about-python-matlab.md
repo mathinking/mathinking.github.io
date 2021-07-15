@@ -38,7 +38,7 @@ Why would a Python user want to use MATLAB? After some exciting discussions with
 Following this post, I will be sharing other posts to exemplify each of these reasons. **Stay tuned and navigate to these posts below for more details:**
 
 - [X] [Need to integrate MATLAB code from a colleague](../../../blog/en/a-trick-you-dont-know-about-python-matlab-integrate)
-- [ ] Facilitate development by using a simplified workflow
+- [X] [Facilitate development by using a simplified workflow](../../../blog/en/a-trick-you-dont-know-about-python-matlab-facilitate-workflows)
 - [ ] Need functionality only available in MATLAB (e.g. Simulink)
 - [ ] Want to validate conclusions by running equivalent MATLAB code
 - [ ] Leverage the work from the MATLAB community

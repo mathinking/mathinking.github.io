@@ -132,4 +132,4 @@ print(result)
 
 Want to learn more about how the integration can simplify some of your Python workflows? 
 
-Stay tuned for **part 2**!
+Stay tuned for [**part 2**](../../../blog/en/a-trick-you-dont-know-about-python-matlab-facilitate-workflows)!
