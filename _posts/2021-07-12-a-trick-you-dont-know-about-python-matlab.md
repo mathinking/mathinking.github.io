@@ -4,7 +4,7 @@ title: "A trick you don't know about Python: MATLAB"
 excerpt: Five reasons why a Python user would want to use MATLAB. A peek into my talk at Python Madrid Meetup
 date:  2021-07-12 11:00:00 +0100
 categories: [blog, en]
-tags: [python, matlab, a-trick-you-dont-know-about-python-matlab]
+tags: [python, matlab, a trick you dont know about python - matlab]
 classes: wide
 toc: false
 toc_label: In this post
