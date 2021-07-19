@@ -4,7 +4,7 @@ title: "Part 2. Facilitate Python development by using a simplified MATLAB workf
 excerpt: "From the series: <br>*A trick you don't know about Python: MATLAB*"
 date:  2021-07-15 11:00:00 +0100
 categories: [blog, en]
-tags: [python, matlab, a trick you dont know about python - matlab]]
+tags: [python, matlab, a trick you dont know about python - matlab]
 classes: wide
 toc: false
 toc_label: In this post

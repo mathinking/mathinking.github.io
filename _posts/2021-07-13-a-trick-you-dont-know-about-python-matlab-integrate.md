@@ -4,7 +4,7 @@ title: "Part 1. Integrate MATLAB code from a colleague into Python"
 excerpt: "From the series: <br>*A trick you don't know about Python: MATLAB*"
 date:  2021-07-13 09:00:00 +0100
 categories: [blog, en]
-tags: [python, matlab, a trick you dont know about python - matlab]]
+tags: [python, matlab, a trick you dont know about python - matlab]
 classes: wide
 toc: false
 toc_label: In this post
