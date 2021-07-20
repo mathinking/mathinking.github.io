@@ -62,7 +62,7 @@ You can then read the results from the simulation using `pyarrow`:
 ```python
 import pandas as pd
 # Read as a dataframe and display
-df = pd.read_csv(fn)
+df = pd.read_csv(outputFileName)
 print(df)
 ```
 
