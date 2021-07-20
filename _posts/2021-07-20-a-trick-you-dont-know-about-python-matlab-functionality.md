@@ -53,7 +53,7 @@ Running the model through the MATLAB Engine is as simple as calling the MATLAB `
 
 
 ```python
-outputFileName = "controllerResponse.csv"
+outputFileName = "controllerResponse.parquet"
 eng.simAndWriteToParquet(ModelName, outputFileName)
 ```
 
@@ -62,7 +62,7 @@ You can then read the results from the simulation using `pyarrow`:
 ```python
 import pandas as pd
 # Read as a dataframe and display
-df = pd.read_csv(outputFileName)
+df = pd.read_parquet(outputFileName)
 print(df)
 ```
 
