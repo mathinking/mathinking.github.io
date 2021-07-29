@@ -101,6 +101,11 @@ We use again Thunder Client to complete the HTTP Request to MATLAB Production Se
 
 Note that the inputs sent to and outputs given by MATLAB should be interpreted in column-major format.
 
+From here, you may obtain a code snippet to bring to your code or script:
+
+![Thunder Client code snippet](/assets/images/2021/when-matlab-production-server-met-thunder-client-vs-code/thunder-client-snippet.jpg)
+
+
 # My take
 
 It's clear that Postman is indeed a complete tool with many exciting features. However, it has become more of an API development application and has lost some of its original lightweight API testing core. 
