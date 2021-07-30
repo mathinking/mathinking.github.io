@@ -7,6 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: /assets/images/mailbox.jpg
+  caption: "Photo credit: [Kai Bossom](https://unsplash.com/@enbaeshoots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 excerpt: "Want to hear back from me? <br>Get notified when I write new posts"
 ---
 ## Subscribe
