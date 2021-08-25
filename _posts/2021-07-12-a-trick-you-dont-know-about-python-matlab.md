@@ -40,7 +40,7 @@ Following this post, I will be sharing other posts to exemplify each of these re
 - [X] [Need to integrate MATLAB code from a colleague](../../../blog/en/a-trick-you-dont-know-about-python-matlab-integrate)
 - [X] [Facilitate development by using a simplified workflow](../../../blog/en/a-trick-you-dont-know-about-python-matlab-facilitate-workflows)
 - [X] [Need functionality only available in MATLAB (e.g. Simulink)](../../../blog/en/a-trick-you-dont-know-about-python-matlab-functionality)
-- [ ] Want to validate conclusions by running equivalent MATLAB code
+- [X] [Want to validate conclusions by running equivalent MATLAB code](../../../blog/en/a-trick-you-dont-know-about-python-matlab-validate)
 - [ ] Leverage the work from the MATLAB community
 
 Also, you may revisit the slides: 
