@@ -19,7 +19,7 @@ header:
 
 This post is the fourth post on the series [A trick you don't know about Python: MATLAB](../../../blog/en/a-trick-you-dont-know-about-python-matlab).
 
-For this example, I will be presenting an exciting benchmark initiated by my colleague [Mike Croucher](https://www.linkedin.com/in/mike-croucher-32336113/), a member of MathWorks' Customer Success Engineering team in the UK. He works with academics around the country on their teaching and computational research. If you haven't already, you must visit his [blog](https://walkingrandomly.com/) - as soon as you finish reading this entry. ;)
+For this example, I will be presenting an exciting benchmark initiated by my colleague [Mike Croucher](https://www.linkedin.com/in/mike-croucher-32336113/), a member of MathWorks' Customer Success Engineering team in the UK. He works with academics around the country on different aspects of their teaching and computational research. If you haven't already, you must visit his [blog](https://walkingrandomly.com/) - as soon as you finish reading this entry. ;)
 
 When discussing with Mike why a Python user would use MATLAB, one frequent reason is validating your conclusions and results. Mike pointed me to this benchmark he had done in the past on using K-means and a talk he had given on [Reproducible ML](https://mikecroucher.github.io/reproducible_ML/). In this talk, given some data, he assigns you the following task:
 
