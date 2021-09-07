@@ -41,7 +41,7 @@ Following this post, I will be sharing other posts to exemplify each of these re
 - [X] [Facilitate development by using a simplified workflow](../../../blog/en/a-trick-you-dont-know-about-python-matlab-facilitate-workflows)
 - [X] [Need functionality only available in MATLAB (e.g. Simulink)](../../../blog/en/a-trick-you-dont-know-about-python-matlab-functionality)
 - [X] [Want to validate conclusions by running equivalent MATLAB code](../../../blog/en/a-trick-you-dont-know-about-python-matlab-validate)
-- [X] [Leverage the work from the MATLAB community](../../../blog/en/a-trick-you-dont-know-about-python-matlab-comunity)
+- [X] [Leverage the work from the MATLAB community](../../../blog/en/a-trick-you-dont-know-about-python-matlab-community)
 
 Also, you may revisit the slides: 
 
