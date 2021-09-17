@@ -10,7 +10,7 @@ header:
 excerpt: "Some of the past and upcoming events where I have or will participate"
 ---
 
-_[Reach out](/about#contact-me) to me if you need to access any slides or demos._
+_[Reach out](/about#contact-me) to me if you need to access any of the slides or code._
 
 ## 2021 
 * MathWorks Virtual Seminar: _Diseño de sistemas autónomos y aplicaciones de Inteligencia Artificial para UAVs_ [_Abstract_](https://bit.ly/Autonomous_IA_UAVs)
