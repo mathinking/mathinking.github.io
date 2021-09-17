@@ -25,7 +25,7 @@ I hold a PhD in Applied Mathematics from Universidad Complutense de Madrid and U
 You can check more details about my career on my [LinkedIn][Linkedin] profile.
 
 ## About this site
-I like to write about things I find interesting. From time to time, I have been using LinkedIn for that, but this seems to be a more convienient way to aggregate my thoughts. I like writing about Machine Learning, Deep Learning, Software Development, Robotics, etc. Hopefully, you'll find such topics interesting too. You can find more about that in the [Blog][Blog] section. Please, note that *all views are my own and do not represent the views of my current or past employers*. Posts will be written in [English](/categories/#en) or [Spanish](/categories/#es).
+I like to write about things I find interesting. From time to time, I have been using LinkedIn for that, but this seems to be a more convienient way to aggregate my thoughts. I like writing about Machine Learning, Deep Learning, Software Development, Robotics, etc. Hopefully, you'll find such topics interesting too. You can find more about that in the [Blog][Blog] section. Please, note that *all views are my own and do not represent the views of my current or past employers*. Posts will be written in [English](/blog/categories/#en) or [Spanish](/blog/categories/#es).
 
 In the [Talks][Talks] section you can find more about past and upcoming events in which I have or will participate. 
 
