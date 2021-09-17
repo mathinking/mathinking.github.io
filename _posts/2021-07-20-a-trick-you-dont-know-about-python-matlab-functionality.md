@@ -3,7 +3,7 @@ layout: single
 title: "Part 3. Need functionality in Python only available in MATLAB (e.g. Simulink)"
 excerpt: "From the series: <br>*A trick you don't know about Python: MATLAB*"
 date:  2021-07-20 12:15:00 +0100
-categories: [blog, en]
+categories: [en]
 tags: [python, matlab, a trick you dont know about python - matlab]
 classes: wide
 toc: false

@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
+title: "Posts by Language"
 layout: categories
-permalink: /categories/
+permalink: /blog/categories/
 author_profile: true
 ---

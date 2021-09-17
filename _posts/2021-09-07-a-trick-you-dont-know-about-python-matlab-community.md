@@ -3,7 +3,7 @@ layout: single
 title: "Part 5. Leverage the work from the MATLAB community"
 excerpt: "From the series: <br>*A trick you don't know about Python: MATLAB*"
 date:  2021-09-07 14:00:00 +0100
-categories: [blog, en]
+categories: [en]
 tags: [python, matlab, a trick you dont know about python - matlab]
 classes: wide
 toc: false

@@ -3,7 +3,7 @@ layout: single
 title: "My favorite features in MATLAB R2021a"
 excerpt: Exploring some of the new features in yet another interesting software release
 date:  2021-04-12 16:10:00 +0100
-categories: [blog, en]
+categories: [en]
 tags: [matlab, machine learning, deep learning, computer vision, reinforcement learning]
 classes: wide
 toc: false

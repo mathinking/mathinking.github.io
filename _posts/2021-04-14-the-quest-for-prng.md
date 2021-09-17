@@ -3,7 +3,7 @@ layout: single
 title: "The quest for parallel random number generation"
 excerpt: A reddit post and a tweet that shook up the deep learning community
 date:  2021-04-14 07:00:00 +0100
-categories: [blog, en]
+categories: [en]
 tags: [deep learning, python, pytorch]
 classes: wide
 toc: false

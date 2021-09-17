@@ -3,7 +3,7 @@ layout: single
 title: "Part 4. Want to validate conclusions in Python by running equivalent MATLAB code"
 excerpt: "From the series: <br>*A trick you don't know about Python: MATLAB*"
 date:  2021-08-25 12:35:00 +0100
-categories: [blog, en]
+categories: [en]
 tags: [python, matlab, a trick you dont know about python - matlab]
 classes: wide
 toc: false

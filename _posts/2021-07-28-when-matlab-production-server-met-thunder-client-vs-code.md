@@ -3,7 +3,7 @@ layout: single
 title: "When MATLAB Production Server met Thunder Client for VS Code"
 excerpt: "My new preferred way to do my MATLAB API testing for production code"
 date:  2021-07-28 12:00:00 +0100
-categories: [blog, en]
+categories: [en]
 tags: [matlab, production]
 classes: wide
 toc: false
