@@ -31,7 +31,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
-
-_Feel free to [reach out](/about#contact-me) to me through social media or email if we have common interests_
+_I enjoy connecting with others with common interests. Feel free to [reach out](/about#contact-me) to me through social media or email._
 
 {% include feature_row %}
