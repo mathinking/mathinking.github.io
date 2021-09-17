@@ -26,7 +26,7 @@ feature_row:
   - image_path: /assets/images/board-home.jpg
     alt: "My Research"
     title: "My Research <i class='fas fa-chalkboard-teacher'></i>" 
-    excerpt: "My publications, research interests, projects I am working on and _further-to-be-developed_ ideas"
+    excerpt: "My publications, dissertation, research interests, projects I am working on and _further-to-be-developed_ ideas"
     url: "/research"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
