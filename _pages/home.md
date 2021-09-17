@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/talks-home.jpg
     alt: "My talks"
     title: "My talks <i class='far fa-comment'></i>" 
-    excerpt: "Some of the past and upcoming events where I have or will participate. Reach out to me if you need to access any slides or demos"
+    excerpt: "Some of the past and upcoming events where I have or will participate. Reach out to me if you need to access any slides or code"
     url: "/talks"
     btn_class: "btn--primary"
     btn_label: "Learn more"
