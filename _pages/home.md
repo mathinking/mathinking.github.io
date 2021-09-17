@@ -20,14 +20,14 @@ feature_row:
     alt: "My talks"
     title: "My talks <i class='far fa-comment'></i>" 
     excerpt: "Some of the past and upcoming events where I have or will participate. Reach out to me if you need to access any slides or demos"
-    url: "/talks/"
+    url: "/talks"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/board-home.jpg
     alt: "My Research"
     title: "My Research <i class='fas fa-chalkboard-teacher'></i>" 
     excerpt: "My publications, research interests, projects I am working on and _further-to-be-developed_ ideas"
-    url: "/research/"
+    url: "/research"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
