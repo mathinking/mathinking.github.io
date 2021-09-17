@@ -75,7 +75,7 @@ plugins:
 author:
   name   : "Lucas García"
   avatar : "/assets/images/lucas.jpg"
-  bio    : "Mathematician, Machine Learning. Opinions are my own."
+  bio    : "Mathematician, Machine Learning. Views are my own."
   location: Madrid, Spain
   links:
     - label: "Website"
