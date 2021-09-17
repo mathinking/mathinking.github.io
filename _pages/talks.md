@@ -10,6 +10,8 @@ header:
 excerpt: "Some of the past and upcoming events where I have or will participate"
 ---
 
+_[Reach out](/about#contact-me) to me if you need to access any slides or demos._
+
 ## 2021 
 * MathWorks Virtual Seminar: _Diseño de sistemas autónomos y aplicaciones de Inteligencia Artificial para UAVs_ [_Abstract_](https://bit.ly/Autonomous_IA_UAVs)
 * Python Madrid Meetup: _Un truco que no conoces de Python: MATLAB_. [_Abstract_](https://bit.ly/PythonMadrid_MATLAB)
@@ -19,7 +21,6 @@ excerpt: "Some of the past and upcoming events where I have or will participate"
 * MathWorks Virtual Seminar: _Pregunta a los Expertos: Inteligencia Artificial con MATLAB_.
 
 ## 2020
-
 * MathWorks Virtual Seminar: _Conducción autónoma y ADAS con MATLAB y Simulink_.
 * MathWorks Virtual Seminar: _Trabajo en Equipo, Deep Learning y Cloud: Tendencias Claves en Inteligencia Artificial. Configurar y usar MATLAB en la nube_. [_Recording_](https://bit.ly/3d4apq4)
 * MathWorks Virtual Seminar: _Cómo predecir la demanda energética con Inteligencia Artificial_
