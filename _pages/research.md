@@ -7,10 +7,10 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.4"
   overlay_image: /assets/images/board.jpg
-excerpt: "My publications, dissertation, research interests, projects I am working on and _further to be developed_ ideas"
+excerpt: "My publications, dissertation, research interests, projects I am working on and _further-to-be-developed_ ideas"
 ---
 
-I do not do full-time Research. This is another hobby of mine, like music or swimming.
+_I do not do full-time Research. This is another hobby of mine, like music or swimming._
 
 ## Publications
 * García, L., Talaván, P. M., and Yáñez, J. (2020). The 2-opt behavior of the Hopfield Network applied to the TSP. _Operational Research_ [doi: 10.1007/s12351-020-00585-3](https://bit.ly/3vSq3gJ)
