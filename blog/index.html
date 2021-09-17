@@ -1,5 +1,5 @@
 ---
-title:  "Blog"
+title:  "Welcome to my blog"
 layout: archive
 taxonomy: blog
 author_profile: true
@@ -12,7 +12,7 @@ header:
 excerpt: "I write about Machine Learning, Deep Learning, Coding, Deployment, Robotics, etc."
 ---
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "My Posts" }}</h3>
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
@@ -20,8 +20,13 @@ excerpt: "I write about Machine Learning, Deep Learning, Coding, Deployment, Rob
   {% assign posts = site.posts %}
 {% endif %}
 
-{% for post in posts %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="grid__wrapper">
+  {% for post in posts %}
+    {% if post.id == page.id %}
+      {% continue %}
+    {% endif %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
 
 {% include paginator.html %}
