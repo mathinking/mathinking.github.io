@@ -68,8 +68,6 @@ See it for yourself with this [Lane and Vehicle Detection example](https://www.m
 # 6. backgroundPool
 I have frequently received feedback from MATLAB users who wanted to run code asynchronously, forcing them to use Parallel Computing Toolbox. Usually, MATLAB suspends execution while running calculations. And if you are developing an app, for instance, this might affect its responsiveness.
 
-I have frequently received feedback from MATLAB users that wanted to run code asynchrounously and that forced them to use Parallel Computing Toolbox. Usually, MATLAB suspends execution while running calculations. And if you are developing an app, for instance, this might affect its responsiveness.
-
 It's worth noting that [Parallel Computing Toolbox](https://www.mathworks.com/products/parallel-computing.html) provides an API for a broad range of parallel programming paradigms, GPU computing, and an API to bring your processing to clusters and HPCs (including Big Data Frameworks like Hadoop or Spark). 
 
 Although having access to Parallel Computing Toolbox will have added benefits (access to more threads basically), MATLAB users can now run a single worker as a thread in the main MATLAB process. This facilitates asynchronous workflows (using [`backgroundPool`](https://www.mathworks.com/help/matlab/ref/parallel.backgroundpool.html) to open the pool and [`parfeval`](https://www.mathworks.com/help/matlab/ref/parfeval.html) to run your functions in the background).
