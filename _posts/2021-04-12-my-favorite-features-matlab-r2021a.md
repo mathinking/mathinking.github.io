@@ -4,17 +4,17 @@ title: "My favorite features in MATLAB R2021a"
 excerpt: Exploring some of the new features in yet another interesting software release
 date:  2021-04-12 16:10:00 +0100
 categories: [en]
-tags: [matlab, machine learning, deep learning, computer vision, reinforcement learning]
+tags: [matlab, machine learning, deep learning, computer vision, reinforcement learning, release]
 classes: wide
 toc: false
 toc_label: In this post
 toc_sticky: false
 
 header:
-  teaser: /assets/images/2021/my-favorite-matlab-features-r2021a/class-diagram-viewer.jpg
+  teaser: /assets/images/2021/my-favorite-features-matlab-r2021a/class-diagram-viewer.jpg
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/2021/my-favorite-matlab-features-r2021a/class-diagram-viewer.jpg
+  overlay_image: /assets/images/2021/my-favorite-features-matlab-r2021a/class-diagram-viewer.jpg
 ---
 
 MATLAB R2021a was released on March 10 with new products and major updates to several products. If you are looking for detailed release highlights, this post is probably not the right place to look. Instead, check MATLAB [release highlights](https://www.mathworks.com/products/new_products/latest_features.html?s_tid=hp_release_2021a) or [release notes](https://www.mathworks.com/help/relnotes/).
@@ -38,14 +38,14 @@ t2.percentVaccinated = t2.people_vaccinated./t2.population;
 t2(startsWith(t2.iso_code,"OWID"), :) = [];
 bubblecloud(t2,'percentVaccinated','location','continent')
 ```
-![Using bubble cloud](/assets/images/2021/my-favorite-matlab-features-r2021a/bubblecloud.jpg)
+![Using bubble cloud](/assets/images/2021/my-favorite-features-matlab-r2021a/bubblecloud.jpg)
 
 # 9. Custom experiments in Experiment Manager
 Experiment Manager continues to get better and better. 
 
 If you are working in the area of Deep Learning, one of the things you might be struggling with is to efficiently manage  variations of your network or hyperparameters to figure out which design performs best. [Experiment Manager App](https://www.mathworks.com/help/deeplearning/ref/experimentmanager-app.html) was introduced in R2020a to facilitate this process.
 
-![Experiment Manager App](/assets/images/2021/my-favorite-matlab-features-r2021a/experiment-manager.png)
+![Experiment Manager App](/assets/images/2021/my-favorite-features-matlab-r2021a/experiment-manager.png)
 
 Here is an intro to the Experiment Manager App by the great Joe Hicklin: 
 {% include video id="AnQYFZ62KWI" provider="youtube" %}
@@ -54,7 +54,7 @@ After including the possibility to run multiple trials of an experiment in paral
 
 Up till now, experiments had to use the [trainNetwork](https://www.mathworks.com/help/deeplearning/ref/trainnetwork.html) function (built-in training loop), reducing the network architecture variations to using SeriesNetwork and DAG (Directed Acyclic Graph) based networks. With Custom training experiments, Experiment Manager supports workflows that use dlnetwork and a model function, where you may design your own training loop. This allows to design experiments for architectures such as Siamese Networks, GANs (Generative Adversarial Networks), Graph Conv Networks and others. Custom training experiments gives you full control over your network design variations, being able to a use custom learning schedule and any other _trick_ that would require using and controlling the training loop.
 
-![Experiment Manager App](/assets/images/2021/my-favorite-matlab-features-r2021a/experiment-manager-custom.png)
+![Experiment Manager App](/assets/images/2021/my-favorite-features-matlab-r2021a/experiment-manager-custom.png)
 
 # 8. TensorFlow Model Importer
 
@@ -69,7 +69,7 @@ Fortunately for the MATLAB user, the [Deep Learning Toolbox Converter for Tensor
 Ever since I started to use the [Live Editor](https://www.mathworks.com/products/matlab/live-editor.html) for demos, one of the missing features has been being able to refer to an existing workspace variable to dynamically control drop-down items. 
 
 Now you can do this for drop-down values and bounds within a slider control. 
-![Experiment Manager App](/assets/images/2021/my-favorite-matlab-features-r2021a/drop-down-control.png)
+![Experiment Manager App](/assets/images/2021/my-favorite-features-matlab-r2021a/drop-down-control.png)
 
 
 # 6. Prettyprint for JSON
@@ -112,7 +112,7 @@ ans =
 
 The [Image Labeler app](https://www.mathworks.com/help/vision/ref/imagelabeler-app.html) enables you to label ground truth data in a collection of images, enabling Computer Vision and Deep Learning workflows. While the app does help tremendously in facilitating the labeling process, as images were getting bigger, such task became more tedious. There is an open-source contribution by my colleague [Brett Shoelson](https://www.mathworks.com/matlabcentral/profile/authors/845693), [labelBigImage](https://www.mathworks.com/matlabcentral/fileexchange/74382-label-images-too-big-to-fit-in-memory), which frankly works extremely well. And this might still be my preferred solution if you are working with releases between R2019b and R2020b. However, when loading images in R2021a with Image Labeler, if an image has a dimension larger than 8000 pixels or is a multiresolution image, the app offers you the option to convert the image into a blocked image:
 
-![Label Large Images in Image Labeler](/assets/images/2021/my-favorite-matlab-features-r2021a/image-labeler-large.png)
+![Label Large Images in Image Labeler](/assets/images/2021/my-favorite-features-matlab-r2021a/image-labeler-large.png)
 
 See the [doc](https://www.mathworks.com/help/vision/ug/label-blocked-image-using-the-image-labeler.html) for additional details.
 
@@ -120,7 +120,7 @@ See the [doc](https://www.mathworks.com/help/vision/ug/label-blocked-image-using
 
 This one came to a surprise to me the first time I learnt about it. Why? Because v1.0 is already great! With [Reinforcement Learning Designer](https://www.mathworks.com/help/reinforcement-learning/ref/reinforcementlearningdesigner-app.html) you can easily cover a RL workflow to design, train and simulate agents with MATLAB and Simulink: 
 
-![Reinforcement Learning Designer App](/assets/images/2021/my-favorite-matlab-features-r2021a/reinforcement-learning-app.png)
+![Reinforcement Learning Designer App](/assets/images/2021/my-favorite-features-matlab-r2021a/reinforcement-learning-app.png)
 
 1. The app allows you to import an existing environment or use predefined environments in MATLAB and Simulink
 2. Once the environment has been added to the app, you can automatically create or import an agent for that environment
@@ -136,7 +136,7 @@ Deep Learning Toolbox, formerly known as Neural Network Toolbox, was first relea
 
 By including shallow nets in Classification Learner and Regression Learner apps, together with other updates to the apps that coincidently happened also in this release (importing test data, sorting and deleting models, loading data from command line and others), I see these Machine Learning apps getting very close to feature complete.
 
-![Shallow nets in Classification Learner and Regression Learner](/assets/images/2021/my-favorite-matlab-features-r2021a/regression-learner-nnet.jpg)
+![Shallow nets in Classification Learner and Regression Learner](/assets/images/2021/my-favorite-features-matlab-r2021a/regression-learner-nnet.jpg)
 
 # 2. Class Diagram Viewer
 
@@ -144,7 +144,7 @@ One of my top wishes for Object-Oriented Programing in MATLAB has always been to
 
 [Class Diagram Viewer](https://www.mathworks.com/help/matlab/ref/classdiagramviewer.html) allows you to create class diagrams showing implementation details and hierarchies. You may inspect the internal structure of the classes, properties, methods, understand hierarchy of classes, inheritance, etc.
 
-![Class Diagram Viewer on ClassificationSVM](/assets/images/2021/my-favorite-matlab-features-r2021a/class-diagram-viewer.jpg)
+![Class Diagram Viewer on ClassificationSVM](/assets/images/2021/my-favorite-features-matlab-r2021a/class-diagram-viewer.jpg)
 
 # 1. Using name=value syntax for passing name-value argument pairs
 
