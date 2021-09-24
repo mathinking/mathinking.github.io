@@ -4,7 +4,7 @@ title: "My favorite features in MATLAB R2021b"
 excerpt: Exploring some of the new features in yet another interesting software release
 date:  2021-09-24 14:10:00 +0100
 categories: [en]
-tags: [matlab, machine learning, deep learning, parallel computing, lidar, python, release, software development]
+tags: [matlab, machine learning, deep learning, parallel computing, lidar, python, release, software development, mlops]
 classes: wide
 toc: false
 toc_label: In this post
