@@ -84,6 +84,11 @@ print(df)
 ```
 
 Finally, we plot the simulation results:
+```python
+pd.options.plotting.backend = "plotly"
+fig = df.plot(df["Time"], [df["Plant Response"],df["Setpoint"]])
+fig.show()
+```
 <div>
   <div style="position:relative;padding-top:56.25%;">
     <iframe src="/assets/images/2021/a-trick-you-dont-know-about-python-matlab/simulink-results.html" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen
