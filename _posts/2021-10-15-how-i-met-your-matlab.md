@@ -32,7 +32,7 @@ And that was as far as I got (on paper).
 
 After investing a considerable amount of time, I concluded that I could not solve this integral with the techniques that I had available. Could this be a non-integrable function? Why would our teacher give us non-solvable homework? Had I made a mistake while writing down the assignment from the blackboard?
 
-So, after being frustrated for a while, I thought I could maybe solve it numerically. Later, during my degree in Mathematics, I learned about Taylor series expansions, Laplace transforms, and other techniques that could help solve the definite integral.
+So, after being frustrated for a while, I thought I could maybe solve it numerically. Years later, during my degree in Mathematics, I learned about Taylor series expansions, Laplace transforms, and other techniques that could help solve the definite integral.
 
 Back to my 16 years old, I went online and started looking into tools to help me answer this puzzle. I do not remember exactly how, but I ended up surfing [MathWorks.com](http://www.mathworks.com), a +500 people (at the time) company based in Natick, Massachusetts. They were the developers of a powerful programming language and software called MATLAB:
 
