@@ -56,3 +56,5 @@ ans =
 Back at school, our teacher made fun of those of us who had tried to solve it, and claimed to be teaching us a lesson for the future. I never admitted having given, at least in some way, an answer to the problem. 
 
 And that's _how I met your MATLAB_.
+
+P.S. I still haven't figured out what the teacher thought that crucial lesson was. 
