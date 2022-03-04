@@ -18,7 +18,7 @@ My name is Lucas García.
 
 I am a Mathematician with over 15 years of professional experience working in the computer software industry and research.
 
-I am a Senior Application Engineer for Artificial Intelligence at MathWorks (creators of MATLAB), working with engineers and scientists across industries (aerospace, automotive, research, industrial automation, energy and utilities, oil and gas, robotics, etc.) to help them tackle their real-world problems in AI. Such problems vary from training Deep Neural Networks and using Computer Vision algorithms to support Automated Driving or Robotics workflows, developing an incremental learning algorithm for Health Monitoring and Predictive Maintenance applications in the cloud, to cleaning a messy dataset. 
+I am a Senior Product Manager for Deep Learning at MathWorks (creators of MATLAB). I joined MathWorks as a customer-facing engineer in 2008 and have worked with engineers and scientists across industries (aerospace, automotive, industrial automation, energy and utilities, oil and gas, robotics, etc.) to help them tackle real-world problems in Artificial Intelligence. Such problems varied from training Deep Neural Networks and using Computer Vision algorithms to support Automated Driving or Robotics workflows, developing an incremental learning algorithm for Health Monitoring and Predictive Maintenance applications in the cloud, to cleaning a messy dataset. 
 
 I hold a PhD in Applied Mathematics from Universidad Complutense de Madrid and Universidad Politécnica de Madrid. My research is focused on how neural networks can be used to solve combinatorial optimization problems.
 
