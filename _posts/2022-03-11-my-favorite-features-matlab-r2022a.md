@@ -2,7 +2,7 @@
 layout: single
 title: "My favorite features in MATLAB R2022a"
 excerpt: Exploring some of the new features in yet another interesting software release
-date:  2022-03-11 13:00:00 +0100
+date:  2022-03-11 12:00:00 +0100
 categories: [en]
 tags: [matlab, machine learning, deep learning, python, release, software development, mlops]
 classes: wide
