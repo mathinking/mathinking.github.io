@@ -99,6 +99,6 @@ You may now continue your development from the dark side.
 ![MATLAB Online Dark Theme](\assets\images\2022\my-favorite-features-matlab-r2022a\MATLABOnlineDark.jpg)
 
 # 1. MATLAB Deep Learning Model Hub
-You can find the latest pretrained MATLAB deep learning models in the new [MATLAB Deep Learning Model Hub](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub). Finally, a one-stop place to search for suitable models for a range of deep learning applications, including lidar point cloud processing, audio speech to text, pose estimation, etc. 
+You can find the latest pretrained MATLAB deep learning models in the new [MATLAB Deep Learning Model Hub](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub). Finally, a one-stop place to search for suitable MATLAB models for a range of deep learning applications, including lidar point cloud processing, audio speech to text, pose estimation, etc. 
 
 ![MATLAB Deep Learning Model Hub](\assets\images\2022\my-favorite-features-matlab-r2022a\MATLAB_DeepLearningModelHub.jpg)
