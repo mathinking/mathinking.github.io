@@ -2,7 +2,7 @@
 layout: single
 title:  "New adventures"
 excerpt: Back with a brief professional update
-date:   2022-03-03 12:15:00 +0100
+date:   2022-03-04 12:15:00 +0100
 classes: wide
 categories: [en]
 tags: personal
