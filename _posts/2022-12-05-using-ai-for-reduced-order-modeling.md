@@ -11,13 +11,13 @@ toc_label: In this post
 toc_sticky: false
 
 header:
-  teaser: /assets/images/2022/using-ai-for-reduced-order-modeling/NeurIPS22_presentation.png
+  teaser: /assets/images/2022/using-ai-for-reduced-order-modeling/NeurIPS_convention.jpg
   overlay_color: "#000"
-  overlay_filter: "0.8"
-  overlay_image: /assets/images/2022/using-ai-for-reduced-order-modeling/NeurIPS22_presentation.png
+  overlay_filter: "0.4"
+  overlay_image: /assets/images/2022/using-ai-for-reduced-order-modeling/NeurIPS_convention.jpg
 ---
 
-_The following post was published at [MathWorks AI blog](https://blogs.mathworks.com/deep-learning/2022/12/05/using-ai-for-reduced-order-modeling/)._
+_The following post was published on [MathWorks' AI blog](https://blogs.mathworks.com/deep-learning/2022/12/05/using-ai-for-reduced-order-modeling/)._
 
 This blog discusses the MathWorks’ presence at [NeurIPS 2022](https://neurips.cc/Conferences/2022) and my talk on ‘Using AI for Reduced-Order Modeling’ at the conference.
 
