@@ -18,9 +18,11 @@ My name is Lucas García.
 
 I am a Mathematician with over 15 years of professional experience working in the computer software industry and research.
 
-I am a Senior Product Manager for Deep Learning at MathWorks (creators of MATLAB). I joined MathWorks as a customer-facing engineer in 2008 and have worked with engineers and scientists across industries (aerospace, automotive, industrial automation, energy and utilities, oil and gas, robotics, etc.) to help them tackle real-world problems in Artificial Intelligence. Such problems varied from training Deep Neural Networks and using Computer Vision algorithms to support Automated Driving or Robotics workflows, developing an incremental learning algorithm for Health Monitoring and Predictive Maintenance applications in the cloud, to cleaning a messy dataset. 
+I am a Principal Product Manager for Deep Learning at MathWorks (creators of MATLAB). I partner with customer-facing and development teams to define, develop, and launch new capabilities and applications that meet customer needs and market trends in deep learning.
 
-I hold a PhD in Applied Mathematics from Universidad Complutense de Madrid and Universidad Politécnica de Madrid. My research is focused on how neural networks can be used to solve combinatorial optimization problems.
+My journey with MathWorks began in 2008 as a customer-facing engineer, where I coached and worked with engineers and scientists across industries (aerospace, automotive, industrial automation, energy and utilities, oil and gas, robotics, etc.) to help them tackle real-world problems in AI. These problems ranged from training Deep Neural Networks and using Computer Vision algorithms to support Automated Driving or Robotics workflows, developing an incremental learning algorithm for Health Monitoring and Predictive Maintenance applications in the cloud, to cleaning a messy dataset.
+
+Before joining MathWorks, I worked as a software developer in finance. I hold a PhD in Applied Mathematics from Universidad Complutense de Madrid and Universidad Politécnica de Madrid (Spain). My research is focused on how neural networks can be used to solve combinatorial optimization problems.
 
 You can check more details about my career on my [LinkedIn][Linkedin] profile.
 
