@@ -12,6 +12,15 @@ excerpt: "Some of the past and upcoming events where I have or will participate"
 
 _[Reach out](/about#contact-me) to me if you need to access any of the slides or code._
 
+## 2023
+* NeurIPS 2023: _From Theory to Practice: Incorporating ML Models into Safety-Critical Systems_
+* MATLAB EXPO 2023: _Understanding and Verifying your AI Models_. [_Recording_](https://bit.ly/49U2DLU)
+
+## 2022
+* NeurIPS 2022: _Using AI for Reduced Order Modeling_. [_Slides_](https://bit.ly/neurips_rom_matlab). [_Blog post_](https://bit.ly/3TdVFeG
+* MathWorks Webinar: _AI with Model-Based Design: Reduced Order Modeling_. [_Recording_](https://bit.ly/47ERkWz)
+* MathWorks Webinar: _AI with Model-Based Design: Virtual Sensor Modeling_. [_Recording_](https://bit.ly/4a0lMvO)
+
 ## 2021 
 * MathWorks Virtual Seminar: _Diseño de sistemas autónomos y aplicaciones de Inteligencia Artificial para UAVs_ [_Abstract_](https://bit.ly/Autonomous_IA_UAVs)
 * Python Madrid Meetup: _Un truco que no conoces de Python: MATLAB_. [_Abstract_](https://bit.ly/PythonMadrid_MATLAB)
