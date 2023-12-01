@@ -17,7 +17,7 @@ _[Reach out](/about#contact-me) to me if you need to access any of the slides or
 * MATLAB EXPO 2023: _Understanding and Verifying your AI Models_. [_Recording_](https://bit.ly/49U2DLU)
 
 ## 2022
-* NeurIPS 2022: _Using AI for Reduced Order Modeling_. [_Slides_](https://bit.ly/neurips_rom_matlab). [_Blog post_](https://bit.ly/3TdVFeG
+* NeurIPS 2022: _Using AI for Reduced Order Modeling_. [_Slides_](https://bit.ly/neurips_rom_matlab). [_Blog post_](https://bit.ly/3TdVFeG)
 * MathWorks Webinar: _AI with Model-Based Design: Reduced Order Modeling_. [_Recording_](https://bit.ly/47ERkWz)
 * MathWorks Webinar: _AI with Model-Based Design: Virtual Sensor Modeling_. [_Recording_](https://bit.ly/4a0lMvO)
 
